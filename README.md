@@ -36,7 +36,7 @@ The following table shows badges achieved:
   <tr>
     <td>05</td>
     <td>White</td>
-    <td>Pending</td>
+    <td>Done</td>
   </tr>
   
   <tr>
